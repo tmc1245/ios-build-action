@@ -1,0 +1,3 @@
+[submodule "ios-build-action"]
+	path = ios-build-action
+	url = git@github.com:tmc1245/ios-build-action.git
