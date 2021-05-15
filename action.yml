@@ -77,3 +77,5 @@ inputs:
 runs:
   using: "node12"
   main: "dist/index.js"
+- name: Build iOS Action
+  uses: sparkfabrik/ios-build-action@v1.1.0
