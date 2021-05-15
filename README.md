@@ -6,6 +6,8 @@ Tested with Ionic, React Native and native ios projects.
 
 Originally forked from `yukiarrr/ios-build-action`.
 
+(self-hosted is also supported)
+
 ## Inputs
 
 You can add a single p12 key+cert file with `p12-base64`, or if you have key and cert in separate files
